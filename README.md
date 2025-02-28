@@ -1,2 +1,2 @@
 # Dot-net
-Dot_net_Practical
+Dot_net_Practicals
